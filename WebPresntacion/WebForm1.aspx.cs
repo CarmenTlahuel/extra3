@@ -232,7 +232,10 @@ namespace WebPresntacion
 
         protected void Button11_Click(object sender, EventArgs e)
         {
-
+            if (ListBox1.SelectedIndex >= 0)
+            {
+                bl.VerDuenos
+            }
         }
     }
 }
