@@ -1,0 +1,11 @@
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\bin\Debug\ClassLogica.dll
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\bin\Debug\ClassLogica.pdb
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\bin\Debug\ClassAcceso.dll
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\bin\Debug\ClassLibrary1.dll
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\bin\Debug\ClassAcceso.pdb
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\obj\Debug\ClassLogica.csproj.AssemblyReference.cache
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\obj\Debug\ClassLogica.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\obj\Debug\ClassLogica.csproj.CopyComplete
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\obj\Debug\ClassLogica.dll
+C:\Users\Lenovo_AIO_11\Desktop\Remxtr3\ClassLogica\obj\Debug\ClassLogica.pdb
