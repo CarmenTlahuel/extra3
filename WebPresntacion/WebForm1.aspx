@@ -98,7 +98,16 @@
             <br />
             <br />
             <asp:TextBox ID="TextBox13" runat="server" Width="475px"></asp:TextBox>
-        </div>
+            <br />
+            <br />
+            Dueños:
+            <asp:ListBox ID="ListBox1" runat="server" Width="235px"></asp:ListBox>
+&nbsp;<asp:Button ID="Button10" runat="server" OnClick="Button10_Click" Text="Sleccionae " />
+            <br />
+            <asp:GridView ID="GridView1" runat="server">
+            </asp:GridView>
+&nbsp;<asp:Button ID="Button11" runat="server" OnClick="Button11_Click" Text="Ver info" />
+&nbsp;</div>
     </form>
 </body>
 </html>

@@ -212,5 +212,27 @@ namespace WebPresntacion
                     ));
             }
         }
+
+        protected void Button10_Click(object sender, EventArgs e)
+        {
+            string m = "";
+            List<Dueno> listaatrapa = null;
+
+            listaatrapa = bl.VerDueno(ref m);
+            ListBox1.Items.Clear();
+
+            for (int a = 0; a < listaatrapa.Count; a++)
+            {
+                ListBox1.Items.Add(
+
+                    new ListItem(listaatrapa[a].Nombre_Dueno.ToString()
+                    ));
+            }
+        }
+
+        protected void Button11_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
